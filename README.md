@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @plcmark2
+- 👀 I’m interested in JS and Python Languages
+- 🌱 I’m currently learning ReactJs
+- 📫 How to reach me on pelcmediaoficial@gmail.com
