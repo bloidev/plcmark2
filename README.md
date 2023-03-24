@@ -1,9 +1,7 @@
 # 👋 Hola Soy plcmark2
 
-<p>👀 Estoy interesado en estudiar a fondo los lenguajes Js, Java, Kotlin, Python and PHP Languages</p>
-
+<p>👀 Estoy interesado en estudiar a fondo los lenguajes Js, Java, Kotlin, Python</p>
 <p>🌱 Actualmente me encuentro estudiando TypeScript & ReactJS</p>
-
 <p>📫 How to reach me on pelcmediaoficial@gmail.com</p>
 
 # Sigueme en mis Redes Sociales
@@ -16,7 +14,7 @@
         Twitter</a>    
     </td>
     <td style="text-align:center">
-    <a href="https://pelcmedia.com">
+    <a href="https://plcmark2.com">
         <img src="./assets/img/Share-Icon.png" width="40"/> <br/>
         Sitio Web</a>    
     </td>
